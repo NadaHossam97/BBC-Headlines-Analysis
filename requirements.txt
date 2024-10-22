@@ -1,1 +1,8 @@
-pandas, nltk, gensim, sklearn, matplotlib, seaborn, wordcloud, vaderSentiment
+pandas
+nltk
+gensim
+scikit-learn
+matplotlib
+seaborn
+wordcloud
+vaderSentiment
