@@ -97,7 +97,7 @@ Here are potential improvements and future extensions for the analysis:
     ```
 3. Run the analysis:
     ```bash
-    python analysis.py
+    python bbc.py
     ```
 
 ---
